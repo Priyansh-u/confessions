@@ -1,5 +1,5 @@
 # confessions
-Secrets/Confessions webpage
+Secrets/Confessions
 Webpage is designed in which the people on signing up can share there secrets anonmously.
 But all people whether they login or not can read secrets.
 The technologies used are EJS,CSS,NodeJs,ExpressJs,Mongoose
